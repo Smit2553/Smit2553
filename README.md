@@ -1,6 +1,6 @@
 # Hello, I am Smit!
 
-#### I'm a Computer Science student currently studying at De Anza College.
+#### I'm a Computer Science student.
 
 #### Programming Languages I am familiar with:
 
