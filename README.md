@@ -17,6 +17,3 @@
 
 - Swift
 - Kotlin
-
-
-Profile Picture attribution to https://www.freepik.com/
