@@ -23,3 +23,10 @@
 
 - Swift
 - Kotlin
+
+#
+
+#### Credits:
+
+- Most Used Languages: https://github.com/anuraghazra/github-readme-stats
+- Spotify: https://github.com/kittinan/spotify-github-profile
