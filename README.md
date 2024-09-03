@@ -12,19 +12,15 @@
 
 - Python
 - C/C++
+- JS/TS
+- HTML/CSS (Debatable on if this is a language)
 
-##### Languages I am currently learning:
-
-- JavaScript
-- HTML
-- CSS
 
 ###### Languages I want to learn:
 
 - Swift
 - Kotlin
 
-#
 
 #### Credits:
 
