@@ -1,32 +1,65 @@
-# Hello, I am Smit!
+# 👋 Hello, I am **Smit**!
 
-#### I'm a Computer Science student.
+### 🎓 A passionate **Computer Science student** exploring cutting-edge technologies and building cool projects.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smit2553&layout=donut&theme=onedark)](https://github.com/smit2553)
 
-#### What I am listening to:
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fplkn5zdf35gtkfd9apnrxz4o&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify">
+</p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fplkn5zdf35gtkfd9apnrxz4o&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/smit2553)
 
-#### Programming Languages I am familiar with:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smit2553&layout=donut&theme=onedark" alt="Top Langs" />
+</p>
 
-- Python
-- C/C++
+## 🤝 Let's Connect:
 
-##### Languages I am currently learning:
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/smitsd)
+[![github](https://skillicons.dev/icons?i=github)](https://github.com/smit2553)
+[![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1235752944834580551)
 
-- JavaScript
-- HTML
-- CSS
 
-###### Languages I want to learn:
+## ⚙️ Familiar Technologies
 
-- Swift
-- Kotlin
+### 🚀 **Languages**:
 
-#
+![Languages](https://skillicons.dev/icons?i=py,cpp,java,js,html,css,postgres,sqlite,mongo,docker)
+
+### 🖼️ **Frontend Frameworks and Tools**:
+
+![Frameworks](https://skillicons.dev/icons?i=flask,react,bootstrap,tailwindcss,vite,next,d3,fastapi,flutter,figma)
+
+### 🛠️ **Dev Tools**:
+
+![Tools](https://skillicons.dev/icons?i=bun,npm,git,vscode,linux,github,docker,pycharm)
+
+### 💾 **Databases**:
+
+![Database](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongo)
+
+### ☁️ **Cloud**:
+
+![Cloud](https://skillicons.dev/icons?i=aws,heroku,vercel)
+
+## 📚 Currently Learning:
+
+> "Learning never exhausts the mind." — Leonardo da Vinci
+
+### ⚙️ Languages:
+
+![Languages](https://skillicons.dev/icons?i=go,ts)
+
+### 🛠️ Frameworks and Tools:
+
+![Frameworks](https://skillicons.dev/icons?i=svelte)
+
+
+
+
 
 #### Credits:
 
 - Most Used Languages: https://github.com/anuraghazra/github-readme-stats
 - Spotify: https://github.com/kittinan/spotify-github-profile
+- Icons: https://skillicons.dev/
+
