@@ -23,7 +23,7 @@
 
 ### 🚀 **Languages**:
 
-![Languages](https://skillicons.dev/icons?i=py,cpp,java,js,html,css,postgres,sqlite,mongo,docker)
+![Languages](https://skillicons.dev/icons?i=py,cpp,java,js,html,css)
 
 ### 🖼️ **Frontend Frameworks and Tools**:
 
