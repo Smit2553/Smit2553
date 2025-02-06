@@ -47,7 +47,7 @@
 
 ### ⚙️ Languages:
 
-![Languages](https://skillicons.dev/icons?i=go,ts)
+![Languages](https://skillicons.dev/icons?i=rust)
 
 ### 🛠️ Frameworks and Tools:
 
