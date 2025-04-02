@@ -7,11 +7,6 @@
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fplkn5zdf35gtkfd9apnrxz4o&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify">
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smit2553&layout=donut&theme=onedark" alt="Top Langs" />
-</p>
-
 ## 🤝 Let's Connect:
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/smitsd)
