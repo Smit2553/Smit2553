@@ -22,7 +22,7 @@
 
 ### 🖼️ **Frontend Frameworks and Tools**:
 
-![Frameworks](https://skillicons.dev/icons?i=flask,react,bootstrap,tailwindcss,vite,next,d3,fastapi,flutter,figma)
+![Frameworks](https://skillicons.dev/icons?i=flask,react,bootstrap,tailwindcss,vite,next,d3,fastapi,figma)
 
 ### 🛠️ **Dev Tools**:
 
